@@ -1,3 +1,3 @@
-#---
-#- name: Symbolink check
-#  command: bash /home/ubuntu/symbolink.sh
+---
+- name: Symbolink check
+  command: bash /home/ansible/symbolink.sh
